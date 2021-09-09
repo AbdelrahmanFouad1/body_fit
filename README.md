@@ -15,7 +15,8 @@ By entering height, weight and other things and calculating BMI, BFP, BMR, WHR a
 <img src="https://user-images.githubusercontent.com/64610124/132722333-a96f6ca5-4ac0-4ede-b602-a4fa2e56904e.jpeg" height="200" />
 <img src="https://user-images.githubusercontent.com/64610124/132722465-c70a6696-e525-41d9-bbaf-1e226198c167.jpeg" height="200" />
 </p>
-A new Flutter project.
+
+[<img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/linkedin-icon.png" height="100em"/>](https://www.linkedin.com/in/abd-el-rahman-fouad-53760720a/)
 
 ## Getting Started
 
