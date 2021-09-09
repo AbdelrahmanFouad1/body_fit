@@ -8,7 +8,7 @@ By entering height, weight and other things and calculating BMI, BFP, BMR, WHR a
 
 # Output
 <p>
-<img src="(https://user-images.githubusercontent.com/64610124/132720879-02b04eb1-1a95-4b88-a8cc-613ca82493b5.png" height="200" />
+<img src=(" https://user-images.githubusercontent.com/64610124/132720879-02b04eb1-1a95-4b88-a8cc-613ca82493b5.png" height="200" />
 <img src="https://user-images.githubusercontent.com/64610124/118847573-29439200-b8ce-11eb-8b36-2899465c4747.png" height="200" />
 <img src="https://user-images.githubusercontent.com/64610124/118848146-c6062f80-b8ce-11eb-93b3-e64057685a96.png" height="200" />
 <img src="https://user-images.githubusercontent.com/64610124/118847637-39f40800-b8ce-11eb-9a18-3c2570c50cdf.png" height="200" />
