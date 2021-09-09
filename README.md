@@ -1,6 +1,6 @@
 # body_fat
 
-![appicon](https://github.com/AbdelrahmanFouad1/body_fit/blob/master/android/app/src/main/res/drawable-xxxhdpi/splash.png)
+![appicon](https://github.com/AbdelrahmanFouad1/body_fit/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
 
 A new Flutter project.
 
