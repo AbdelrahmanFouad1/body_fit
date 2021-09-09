@@ -1,6 +1,10 @@
-# body_fat
+# Body Fat
 
 ![appicon](https://github.com/AbdelrahmanFouad1/body_fit/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
+
+Application to measure body fat percentage
+By entering height, weight and other things and calculating BMI, BFP, BMR, WHR and TDEE
+
 
 A new Flutter project.
 
