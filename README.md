@@ -6,6 +6,17 @@ Application to measure body fat percentage.
 
 By entering height, weight and other things and calculating BMI, BFP, BMR, WHR and TDEE.
 
+# Output
+<p>
+<img src="(https://user-images.githubusercontent.com/64610124/132720200-cbb6b3ef-952b-4293-accc-eeb8a182f3b5.jpeg" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118847573-29439200-b8ce-11eb-8b36-2899465c4747.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118848146-c6062f80-b8ce-11eb-93b3-e64057685a96.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118847637-39f40800-b8ce-11eb-9a18-3c2570c50cdf.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118848244-dcac8680-b8ce-11eb-80bf-e1c2a66f7d9e.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118848351-f77efb00-b8ce-11eb-9836-df0cb470716f.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118848424-0796da80-b8cf-11eb-81af-ac9a8bb4d119.png" height="200" />
+<img src="https://user-images.githubusercontent.com/64610124/118848781-5a709200-b8cf-11eb-9841-995e7501ace0.png" height="200" />
+</p>
 
 A new Flutter project.
 
